@@ -131,6 +131,7 @@ python app.py
 6. Train Machine Learning model
 7. Evaluate model performance
 8. Make predictions
+9. 80% test accuracy
 
 ---
 
