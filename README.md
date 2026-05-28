@@ -205,15 +205,3 @@ Feel free to fork this repository and submit pull requests.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-GitHub: https://github.com/your-username
-```
