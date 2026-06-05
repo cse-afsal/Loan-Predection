@@ -13,7 +13,8 @@ The model is trained using historical loan application data and predicts:
 - ✅ Loan Approved
 - ❌ Loan Rejected
 
----
+
+  ---
 
 ## 🚀 Features
 
