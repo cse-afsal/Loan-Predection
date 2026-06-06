@@ -113,13 +113,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-
-### OR Run Python Application
-
-```bash
-python app.py
-```
-
 ---
 
 ## 🤖 Machine Learning Workflow
